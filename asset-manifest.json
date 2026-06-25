@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/YASHWANTH29-jpg/Tourism-plan/static/css/main.0af68477.css",
+    "main.js": "/YASHWANTH29-jpg/Tourism-plan/static/js/main.8ef71774.js",
+    "index.html": "/YASHWANTH29-jpg/Tourism-plan/index.html",
+    "main.0af68477.css.map": "/YASHWANTH29-jpg/Tourism-plan/static/css/main.0af68477.css.map",
+    "main.8ef71774.js.map": "/YASHWANTH29-jpg/Tourism-plan/static/js/main.8ef71774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0af68477.css",
+    "static/js/main.8ef71774.js"
+  ]
+}
