@@ -1,0 +1,38 @@
+{
+  "name": "tourism-plan",
+  "version": "1.0.0",
+  "description": "This is a simple Tourism Planning web application built with React. The app helps users explore different tourist destinations, view details like images, descriptions, and costs, and plan their trips more effectively.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YASHWANTH29-jpg/Tourism-plan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YASHWANTH29-jpg/Tourism-plan/issues"
+  },
+  "homepage": "https://github.com/YASHWANTH29-jpg/Tourism-plan#readme",
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
